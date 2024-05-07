@@ -6,12 +6,11 @@
 
 nmap results:
 
-![nmap(1)](https://github.com/ShTuran/Practical-Ethical-Hacking/assets/111232034/bda9c42f-5fbb-4b81-909c-c8c2be3c722a)
+![nmap(1)](https://github.com/ShTuran/Practical-Ethical-Hacking/assets/111232034/6890f19b-9b1a-49a8-812d-28f2039af0c3)
 
-![nmap2](https://github.com/ShTuran/Practical-Ethical-Hacking/assets/111232034/0b62d338-34fe-4790-b007-ee3614bbb813)
+![nmap2](https://github.com/ShTuran/Practical-Ethical-Hacking/assets/111232034/4968dc46-08bd-4a1f-8987-b9a88f539dd1)
 
-![nmap3](https://github.com/ShTuran/Practical-Ethical-Hacking/assets/111232034/861de32b-1ca1-432e-8c6d-2c577470d182)
-
+![nmap3](https://github.com/ShTuran/Practical-Ethical-Hacking/assets/111232034/79e7950a-2853-46ba-8076-81b37bf7c134)
 
 To be honest, machine name was Blue - so, I was expecting `eternal blue`.
 
