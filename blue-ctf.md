@@ -37,7 +37,8 @@ If we run `ps` - we will see the running process - we was needed to `migrate` th
 
 ![migrating](https://github.com/ShTuran/Practical-Ethical-Hacking/assets/111232034/dbea9b62-9c06-434e-b30d-5c91913074b9)
 
-If we do CTRL+Z and back to meterpreter shell and see the users -  we have a user called 'Jon'
+If we do CTRL+Z and back to meterpreter shell and see the users -  we have a user called 'Jon'. 
+In meterpreter shell type `hashdump` to get the hashes and crack needed user.
 
 ![johntheripper](https://github.com/ShTuran/Practical-Ethical-Hacking/assets/111232034/4dde87d9-9d8d-42ea-b0b1-1e4a56082bf5)
 
