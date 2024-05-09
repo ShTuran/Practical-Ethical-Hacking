@@ -19,7 +19,7 @@ Immediately searched the `Windows 7 Professional 7601 Service Pack 1` and we a h
 
 I used Metasploit for this but upon several attempt - all of my trial failed!
 
-The problem was - I did not set up my lhost propery (which I was using THM - I needed to set up as tun0)
+The problem was - I did not set up my lhost properly (which I was using THM - I needed to set up as tun0)
 
 So opon problem solved, let's do 2nd step:
 
