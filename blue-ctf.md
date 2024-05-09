@@ -3,7 +3,7 @@
 # Subject:   CTF                                           
 
 # Reported by : Shirinov Turan
-### Note: IP addresses of machine may differ (I run the machine several time due to my mistake which mentioned) and I used THM.
+### Note: IP address of machine may differ (I run the machine several time due to my mistake which mentioned) and I used THM.
 
 nmap results:
 
